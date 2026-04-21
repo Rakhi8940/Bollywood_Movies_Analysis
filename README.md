@@ -94,19 +94,20 @@ df.head()
   - Youtube Likes
   - Youtube Dislikes
 
-📊 Visualizations
-📦 Genre vs YouTube Views
-<p align="center"> <img src="https://github.com/user-attachments/assets/2c39c5bd-b804-453b-afed-085e7e15bbeb" width="600"> </p>
-🔥 Correlation Heatmap
-<p align="center"> <img src="https://github.com/user-attachments/assets/45fe6694-0a41-45e8-8637-fef9929b881d" width="650"> </p>
-📊 Year vs Box Office Collection
-<p align="center"> <img src="https://github.com/user-attachments/assets/746ba173-cf98-4f34-81e5-f16cab9ab5d6" width="600"> </p>
-🎯 Movies per Year
-<p align="center"> <img src="https://github.com/user-attachments/assets/e46c0b20-5613-41f8-b855-6b63a1f0dd22" width="600"> </p>
-📉 Budget Distribution
-<p align="center"> <img src="https://github.com/user-attachments/assets/357b1fb8-ed8b-40c1-b3ea-ff371be8846b" width="650"> </p>
-👍 Likes vs 👎 Dislikes Comparison
-<p align="center"> <img src="https://github.com/user-attachments/assets/327abde0-1fbb-45a7-a5f6-f5683f15aae5" width="600"> </p>
+## 📊 Visualizations
+
+# 📦 Genre vs YouTube Views
+<p align="center"> <img src="https://github.com/user-attachments/assets/2c39c5bd-b804-453b-afed-085e7e15bbeb" width="400"> </p>
+# 🔥 Correlation Heatmap
+<p align="center"> <img src="https://github.com/user-attachments/assets/45fe6694-0a41-45e8-8637-fef9929b881d" width="450"> </p>
+# 📊 Year vs Box Office Collection
+<p align="center"> <img src="https://github.com/user-attachments/assets/746ba173-cf98-4f34-81e5-f16cab9ab5d6" width="400"> </p>
+# 🎯 Movies per Year
+<p align="center"> <img src="https://github.com/user-attachments/assets/e46c0b20-5613-41f8-b855-6b63a1f0dd22" width="400"> </p>
+# 📉 Budget Distribution
+<p align="center"> <img src="https://github.com/user-attachments/assets/357b1fb8-ed8b-40c1-b3ea-ff371be8846b" width="450"> </p>
+# 👍 Likes vs 👎 Dislikes Comparison
+<p align="center"> <img src="https://github.com/user-attachments/assets/327abde0-1fbb-45a7-a5f6-f5683f15aae5" width="400"> </p>
 
 ## 🔌 Example Use Cases
 - Predicting movie success based on budget & engagement
