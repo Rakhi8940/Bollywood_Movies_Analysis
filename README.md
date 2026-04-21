@@ -1,5 +1,6 @@
 <p align="center"> <img src="https://github.com/user-attachments/assets/a450a461-d077-4ba7-9911-294ad933c427" width="900" alt="Bollywood Movie Analysis Banner" style="margin: 12px 0; border-radius: 18px; background: #fff; box-shadow: 0 4px 16px rgba(0,0,0,0.12); padding: 0;"> </p>
-## 🎬 Bollywood Movie Analysis
+
+### 🎬 Bollywood Movie Analysis
 
 Bollywood Movie Analysis is a data analytics project that explores trends, patterns, and insights from Bollywood movie datasets using Python. It leverages powerful libraries like NumPy, Pandas, Matplotlib, and Seaborn to perform data cleaning, analysis, and visualization.
 
