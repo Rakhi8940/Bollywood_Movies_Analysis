@@ -97,34 +97,22 @@ df.head()
 ## 📊 Visualizations
 
 ### 📦 Genre vs YouTube Views
-```python
-sns.boxplot(x='Genre', y='YoutubeViews', data=df)
-```
+<img width="743" height="551" alt="image" src="https://github.com/user-attachments/assets/2c39c5bd-b804-453b-afed-085e7e15bbeb" />
 
 ### 🔥 Correlation Heatmap
-```python
-sns.heatmap(df[['Budget','BoxOfficeCollection','YoutubeViews','YoutubeLikes','YoutubeDislikes']].corr(), annot=True)
-```
+<img width="864" height="679" alt="image" src="https://github.com/user-attachments/assets/45fe6694-0a41-45e8-8637-fef9929b881d" />
 
 ### 📊 Year vs Box Office Collection
-```python
-sns.barplot(x='Year', y='BoxOfficeCollection', hue='Genre', data=df, ci=None)
-```
+<img width="734" height="547" alt="image" src="https://github.com/user-attachments/assets/746ba173-cf98-4f34-81e5-f16cab9ab5d6" />
 
 ### 🎯 Movies per Year
-```python
-sns.countplot(x='Year', data=df)
-```
+<img width="731" height="547" alt="image" src="https://github.com/user-attachments/assets/e46c0b20-5613-41f8-b855-6b63a1f0dd22" />
 
 ### 📉 Budget Distribution
-```python
-sns.displot(x='Budget', data=df, kind='kde', hue='Genre')
-```
+<img width="798" height="610" alt="image" src="https://github.com/user-attachments/assets/357b1fb8-ed8b-40c1-b3ea-ff371be8846b" />
 
 ### 👍 Likes vs 👎 Dislikes Comparison
-```python
-compare.plot.bar()
-```
+<img width="768" height="551" alt="image" src="https://github.com/user-attachments/assets/327abde0-1fbb-45a7-a5f6-f5683f15aae5" />
 
 ## 🔌 Example Use Cases
 - Predicting movie success based on budget & engagement
@@ -160,5 +148,5 @@ Bollywood-Movie-Analysis/
 
 Made with ❤️ by Rakhi Yadav
 
-Turning data into blockbuster insights 🎥✨
+# Turning data into blockbuster insights 🎥✨
 
