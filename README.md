@@ -1,5 +1,4 @@
 
-Markdown
 <p align="center">
   <img src="https://github.com/user-attachments/assets/bd34176f-85c1-437c-b447-ee3b6c2d070c" width="900" alt="Bollywood Movie Analysis Banner" style="margin: 12px 0; border-radius: 18px; background: #fff; box-shadow: 0 4px 16px rgba(0,0,0,0.12); padding: 0;">
 </p>
@@ -41,7 +40,6 @@ Bollywood Movie Analysis is a data analytics project that explores trends, patte
 
 ## 🧑‍💻 Project Workflow
 
-```python
 # Importing libraries
 import numpy as np
 import pandas as pd
@@ -84,36 +82,28 @@ Purani Jeans
 Samrat & Co.
 Heartless
 Kaanchi
+
 📌 Correlation Insights
 Box Office vs YouTube Likes: Positive correlation (0.68)
 Strong correlation between:
 Youtube Views
 Youtube Likes
 Youtube Dislikes
+
 📊 Visualizations
 📦 Genre vs YouTube Views
-Python
-sns.boxplot(x='Genre', y='YoutubeViews', data=df)
 🔥 Correlation Heatmap
-Python
-sns.heatmap(df[['Budget','BoxOfficeCollection','YoutubeViews','YoutubeLikes','YoutubeDislikes']].corr(), annot=True)
 📊 Year vs Box Office Collection
-Python
-sns.barplot(x='Year', y='BoxOfficeCollection', hue='Genre', data=df, ci=None)
 🎯 Movies per Year
-Python
-sns.countplot(x='Year', data=df)
 📉 Budget Distribution
-Python
-sns.displot(x='Budget', data=df, kind='kde', hue='Genre')
 👍 Likes vs 👎 Dislikes Comparison
-Python
-compare.plot.bar()
+
 🔌 Example Use Cases
 Predicting movie success based on budget & engagement
 Understanding audience behavior via YouTube metrics
 Identifying best release periods for maximum ROI
 Genre-based performance comparison
+
 📁 Project Structure
 Code
 Bollywood-Movie-Analysis/
@@ -127,6 +117,7 @@ Bollywood-Movie-Analysis/
 │   └── plots.png
 ├── README.md
 └── requirements.txt
+
 📝 Getting Started
 [Add installation and setup instructions here]
 
@@ -135,6 +126,7 @@ Add machine learning models for prediction
 Build an interactive dashboard (Streamlit/Power BI)
 Integrate real-time movie data APIs
 Perform sentiment analysis on audience reviews
+
 👩‍💻 Author
 Made with ❤️ by Rakhi Yadav
 
