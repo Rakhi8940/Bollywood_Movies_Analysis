@@ -1,53 +1,33 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/bd34176f-85c1-437c-b447-ee3b6c2d070c" width="900" alt="Bollywood Movie Analysis Banner" style="margin: 12px 0; border-radius: 18px; background: #fff; box-shadow: 0 4px 16px rgba(0,0,0,0.12); padding: 0;">
-</p>
-
-# 🎬 Bollywood Movie Analysis
+<p align="center"> <img src="https://github.com/user-attachments/assets/bd34176f-85c1-437c-b447-ee3b6c2d070c" width="900" alt="Bollywood Movie Analysis Banner" style="margin: 12px 0; border-radius: 18px; background: #fff; box-shadow: 0 4px 16px rgba(0,0,0,0.12); padding: 0;"> </p>
+🎬 Bollywood Movie Analysis
 
 Bollywood Movie Analysis is a data analytics project that explores trends, patterns, and insights from Bollywood movie datasets using Python. It leverages powerful libraries like NumPy, Pandas, Matplotlib, and Seaborn to perform data cleaning, analysis, and visualization.
 
----
-
-## 🎯 Objective
-
-- Analyze Bollywood movie data to uncover trends and insights  
-- Perform data cleaning and preprocessing for accurate analysis  
-- Visualize relationships between budget, revenue, and audience engagement  
-- Identify factors influencing movie success (ROI, release timing, genre, etc.)  
-- Build strong foundational skills in data analytics using Python  
-
----
-
-## 📊 Dataset Description
-
-| Feature | Description |
-|---------|------------|
-| SINo | Unique identifier for movies |
-| ReleaseDate | Movie release date |
-| MovieName | Name of the movie |
-| ReleaseTime | Release period (LW, FS, HS, N) |
-| Genre | Type of movie (Action, Comedy, etc.) |
-| Budget | Production budget |
-| BoxOfficeCollection | Total earnings |
-| YoutubeViews | Trailer views |
-| YoutubeLikes | Trailer likes |
-| YoutubeDislikes | Trailer dislikes |
-
----
-
-## 🛠️ Technologies Used
-
-- **Python** - Programming Language  
-- **NumPy** - Numerical computations  
-- **Pandas** - Data manipulation  
-- **Matplotlib** - Data visualization  
-- **Seaborn** - Advanced visualization  
-
----
-
-## 🧑‍💻 Project Workflow
-
-```python
+🎯 Objective
+Analyze Bollywood movie data to uncover trends and insights
+Perform data cleaning and preprocessing for accurate analysis
+Visualize relationships between budget, revenue, and audience engagement
+Identify factors influencing movie success (ROI, release timing, genre, etc.)
+Build strong foundational skills in data analytics using Python
+📊 Dataset Description
+Feature	Description
+SINo	Unique identifier for movies
+ReleaseDate	Movie release date
+MovieName	Name of the movie
+ReleaseTime	Release period (LW, FS, HS, N)
+Genre	Type of movie (Action, Comedy, etc.)
+Budget	Production budget
+BoxOfficeCollection	Total earnings
+YoutubeViews	Trailer views
+YoutubeLikes	Trailer likes
+YoutubeDislikes	Trailer dislikes
+🛠️ Technologies Used
+Python - Programming Language
+NumPy - Numerical computations
+Pandas - Data manipulation
+Matplotlib - Data visualization
+Seaborn - Advanced visualization
+🧑‍💻 Project Workflow
 # Importing libraries
 import numpy as np
 import pandas as pd
