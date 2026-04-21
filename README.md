@@ -1,4 +1,3 @@
-```markdown
 <p align="center"> <img src="https://github.com/user-attachments/assets/bd34176f-85c1-437c-b447-ee3b6c2d070c" width="900" alt="Bollywood Movie Analysis Banner" style="margin: 12px 0; border-radius: 18px; background: #fff; box-shadow: 0 4px 16px rgba(0,0,0,0.12); padding: 0;"> </p>
 
 # 🎬 Bollywood Movie Analysis
@@ -98,34 +97,22 @@ df.head()
 ## 📊 Visualizations
 
 ### 📦 Genre vs YouTube Views
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/2c39c5bd-b804-453b-afed-085e7e15bbeb" width="700" alt="Genre vs YouTube Views">
-</p>
+<img width="743" height="551" alt="image" src="https://github.com/user-attachments/assets/2c39c5bd-b804-453b-afed-085e7e15bbeb" />
 
 ### 🔥 Correlation Heatmap
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/45fe6694-0a41-45e8-8637-fef9929b881d" width="700" alt="Correlation Heatmap">
-</p>
+<img width="864" height="679" alt="image" src="https://github.com/user-attachments/assets/45fe6694-0a41-45e8-8637-fef9929b881d" />
 
 ### 📊 Year vs Box Office Collection
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/746ba173-cf98-4f34-81e5-f16cab9ab5d6" width="700" alt="Year vs Box Office Collection">
-</p>
+<img width="734" height="547" alt="image" src="https://github.com/user-attachments/assets/746ba173-cf98-4f34-81e5-f16cab9ab5d6" />
 
 ### 🎯 Movies per Year
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/e46c0b20-5613-41f8-b855-6b63a1f0dd22" width="700" alt="Movies per Year">
-</p>
+<img width="731" height="547" alt="image" src="https://github.com/user-attachments/assets/e46c0b20-5613-41f8-b855-6b63a1f0dd22" />
 
 ### 📉 Budget Distribution
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/357b1fb8-ed8b-40c1-b3ea-ff371be8846b" width="700" alt="Budget Distribution">
-</p>
+<img width="798" height="610" alt="image" src="https://github.com/user-attachments/assets/357b1fb8-ed8b-40c1-b3ea-ff371be8846b" />
 
 ### 👍 Likes vs 👎 Dislikes Comparison
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/327abde0-1fbb-45a7-a5f6-f5683f15aae5" width="700" alt="Likes vs Dislikes Comparison">
-</p>
+<img width="768" height="551" alt="image" src="https://github.com/user-attachments/assets/327abde0-1fbb-45a7-a5f6-f5683f15aae5" />
 
 ## 🔌 Example Use Cases
 - Predicting movie success based on budget & engagement
