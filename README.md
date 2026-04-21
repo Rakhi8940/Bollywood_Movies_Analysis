@@ -50,19 +50,25 @@ df.head()
 ```
 
 📈 Key Analysis & Insights
+
 📌 Dataset Overview
 Total records: 149 movies
+
 📌 Release Time Analysis
 Most movies released during Normal period
 Least during Long Weekend
+
 📌 Genre Insights
 Festive Season leaders: Thriller & Drama
 Action genre dominates YouTube views
+
 📌 Yearly Trends
 Highest movie releases: 2014
 Followed closely by 2013
+
 📌 High Budget Trends
 Movies with budget ≥ 30 crore mostly released in February
+
 📌 ROI (Return on Investment)
 Best ROI observed during:
 
@@ -82,6 +88,7 @@ Heartless
 Kaanchi
 
 📌 Correlation Insights
+
 Box Office vs YouTube Likes: Positive correlation (0.68)
 Strong correlation between:
 Youtube Views
@@ -89,13 +96,14 @@ Youtube Likes
 Youtube Dislikes
 
 🔌 Example Use Cases
+
 Predicting movie success based on budget & engagement
 Understanding audience behavior via YouTube metrics
 Identifying best release periods for maximum ROI
 Genre-based performance comparison
 
 📁 Project Structure
-
+code
 Bollywood-Movie-Analysis/
 ├── data/
 │   ├── bollywood.csv
