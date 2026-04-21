@@ -98,22 +98,34 @@ df.head()
 ## 📊 Visualizations
 
 ### 📦 Genre vs YouTube Views
-![Genre vs YouTube Views](https://github.com/user-attachments/assets/2c39c5bd-b804-453b-afed-085e7e15bbeb)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2c39c5bd-b804-453b-afed-085e7e15bbeb" width="700" alt="Genre vs YouTube Views">
+</p>
 
 ### 🔥 Correlation Heatmap
-![Correlation Heatmap](https://github.com/user-attachments/assets/45fe6694-0a41-45e8-8637-fef9929b881d)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/45fe6694-0a41-45e8-8637-fef9929b881d" width="700" alt="Correlation Heatmap">
+</p>
 
 ### 📊 Year vs Box Office Collection
-![Year vs Box Office Collection](https://github.com/user-attachments/assets/746ba173-cf98-4f34-81e5-f16cab9ab5d6)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/746ba173-cf98-4f34-81e5-f16cab9ab5d6" width="700" alt="Year vs Box Office Collection">
+</p>
 
 ### 🎯 Movies per Year
-![Movies per Year](https://github.com/user-attachments/assets/e46c0b20-5613-41f8-b855-6b63a1f0dd22)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e46c0b20-5613-41f8-b855-6b63a1f0dd22" width="700" alt="Movies per Year">
+</p>
 
 ### 📉 Budget Distribution
-![Budget Distribution](https://github.com/user-attachments/assets/357b1fb8-ed8b-40c1-b3ea-ff371be8846b)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/357b1fb8-ed8b-40c1-b3ea-ff371be8846b" width="700" alt="Budget Distribution">
+</p>
 
 ### 👍 Likes vs 👎 Dislikes Comparison
-![Likes vs Dislikes Comparison](https://github.com/user-attachments/assets/327abde0-1fbb-45a7-a5f6-f5683f15aae5)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/327abde0-1fbb-45a7-a5f6-f5683f15aae5" width="700" alt="Likes vs Dislikes Comparison">
+</p>
 
 ## 🔌 Example Use Cases
 - Predicting movie success based on budget & engagement
