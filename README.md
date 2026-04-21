@@ -94,25 +94,19 @@ df.head()
   - Youtube Likes
   - Youtube Dislikes
 
-## 📊 Visualizations
-
-### 📦 Genre vs YouTube Views
-<img width="743" height="551" alt="image" src="https://github.com/user-attachments/assets/2c39c5bd-b804-453b-afed-085e7e15bbeb" />
-
-### 🔥 Correlation Heatmap
-<img width="864" height="679" alt="image" src="https://github.com/user-attachments/assets/45fe6694-0a41-45e8-8637-fef9929b881d" />
-
-### 📊 Year vs Box Office Collection
-<img width="734" height="547" alt="image" src="https://github.com/user-attachments/assets/746ba173-cf98-4f34-81e5-f16cab9ab5d6" />
-
-### 🎯 Movies per Year
-<img width="731" height="547" alt="image" src="https://github.com/user-attachments/assets/e46c0b20-5613-41f8-b855-6b63a1f0dd22" />
-
-### 📉 Budget Distribution
-<img width="798" height="610" alt="image" src="https://github.com/user-attachments/assets/357b1fb8-ed8b-40c1-b3ea-ff371be8846b" />
-
-### 👍 Likes vs 👎 Dislikes Comparison
-<img width="768" height="551" alt="image" src="https://github.com/user-attachments/assets/327abde0-1fbb-45a7-a5f6-f5683f15aae5" />
+📊 Visualizations
+📦 Genre vs YouTube Views
+<p align="center"> <img src="https://github.com/user-attachments/assets/2c39c5bd-b804-453b-afed-085e7e15bbeb" width="600"> </p>
+🔥 Correlation Heatmap
+<p align="center"> <img src="https://github.com/user-attachments/assets/45fe6694-0a41-45e8-8637-fef9929b881d" width="650"> </p>
+📊 Year vs Box Office Collection
+<p align="center"> <img src="https://github.com/user-attachments/assets/746ba173-cf98-4f34-81e5-f16cab9ab5d6" width="600"> </p>
+🎯 Movies per Year
+<p align="center"> <img src="https://github.com/user-attachments/assets/e46c0b20-5613-41f8-b855-6b63a1f0dd22" width="600"> </p>
+📉 Budget Distribution
+<p align="center"> <img src="https://github.com/user-attachments/assets/357b1fb8-ed8b-40c1-b3ea-ff371be8846b" width="650"> </p>
+👍 Likes vs 👎 Dislikes Comparison
+<p align="center"> <img src="https://github.com/user-attachments/assets/327abde0-1fbb-45a7-a5f6-f5683f15aae5" width="600"> </p>
 
 ## 🔌 Example Use Cases
 - Predicting movie success based on budget & engagement
