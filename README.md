@@ -97,7 +97,7 @@ df.head()
 ## 📊 Visualizations
 
 ### 📦 Genre vs YouTube Views
-<img width="350" height="300" alt="image" src="https://github.com/user-attachments/assets/2c39c5bd-b804-453b-afed-085e7e15bbeb" />
+<img align="center" width="350" height="300" alt="image" src="https://github.com/user-attachments/assets/2c39c5bd-b804-453b-afed-085e7e15bbeb" />
 
 ### 🔥 Correlation Heatmap
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/45fe6694-0a41-45e8-8637-fef9929b881d" />
