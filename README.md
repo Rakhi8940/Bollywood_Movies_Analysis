@@ -1,15 +1,18 @@
-<p align="center"> <img src="https://github.com/user-attachments/assets/bd34176f-85c1-437c-b447-ee3b6c2d070c" width="900" alt="Bollywood Movie Analysis Banner" style="margin: 12px 0; border-radius: 18px; background: #fff; box-shadow: 0 4px 16px rgba(0,0,0,0.12); padding: 0;"> </p> <br>
+<p align="center"> <img src="https://github.com/user-attachments/assets/a450a461-d077-4ba7-9911-294ad933c427" width="900" alt="Bollywood Movie Analysis Banner" style="margin: 12px 0; border-radius: 18px; background: #fff; box-shadow: 0 4px 16px rgba(0,0,0,0.12); padding: 0;"> </p>
 🎬 Bollywood Movie Analysis
 
 Bollywood Movie Analysis is a data analytics project that explores trends, patterns, and insights from Bollywood movie datasets using Python. It leverages powerful libraries like NumPy, Pandas, Matplotlib, and Seaborn to perform data cleaning, analysis, and visualization.
 
 🎯 Objective
-Analyze Bollywood movie data to uncover trends and insights
-Perform data cleaning and preprocessing for accurate analysis
-Visualize relationships between budget, revenue, and audience engagement
-Identify factors influencing movie success (ROI, release timing, genre, etc.)
-Build strong foundational skills in data analytics using Python
+Analyze Bollywood movie data to uncover trends and insights.
+Perform data cleaning and preprocessing for accurate analysis.
+Visualize relationships between budget, revenue, and audience engagement.
+Identify factors influencing movie success (ROI, release timing, genre, etc.).
+Build strong foundational skills in data analytics using Python.
 📊 Dataset Description
+
+Meta-Data of the Dataset:
+
 Feature	Description
 SINo	Unique identifier for movies
 ReleaseDate	Movie release date
@@ -22,11 +25,11 @@ YoutubeViews	Trailer views
 YoutubeLikes	Trailer likes
 YoutubeDislikes	Trailer dislikes
 🛠️ Technologies Used
-Python — Programming Language
-NumPy — Numerical computations
-Pandas — Data manipulation
-Matplotlib — Data visualization
-Seaborn — Advanced visualization
+Python
+NumPy – Numerical computations
+Pandas – Data manipulation
+Matplotlib – Data visualization
+Seaborn – Advanced visualization
 🧑‍💻 Project Workflow
 # Importing libraries
 import numpy as np
@@ -35,7 +38,7 @@ from matplotlib import pyplot as plt
 import seaborn as sns
 
 # Reading dataset
-df = pd.read_csv('bollywood.csv')
+df = pd.read_csv('bollywood.csv', encoding='latin-1')
 
 # Preview dataset
 df.head()
@@ -50,18 +53,14 @@ Festive Season leaders: Thriller & Drama
 Action genre dominates YouTube views
 📌 Yearly Trends
 Highest movie releases: 2014
-Followed closely by: 2013
+Followed closely by 2013
 📌 High Budget Trends
 Movies with budget ≥ 30 crore mostly released in February
 📌 ROI (Return on Investment)
-
 Best ROI observed during:
-
 Long Weekend (1.12)
 Festive Season (0.97)
-
 Top flop movies (lowest ROI):
-
 Gangoobai
 Bandook
 Sona Spa
@@ -74,9 +73,7 @@ Heartless
 Kaanchi
 📌 Correlation Insights
 Box Office vs YouTube Likes: Positive correlation (0.68)
-
 Strong correlation between:
-
 Youtube Views
 Youtube Likes
 Youtube Dislikes
@@ -101,15 +98,15 @@ Genre-based performance comparison
 📁 Project Structure
 Bollywood-Movie-Analysis/
 ├── data/
-│   └── bollywood.csv
+│   ├── bollywood.csv
 ├── notebooks/
-│   └── analysis.ipynb
+│   ├── analysis.ipynb
 ├── scripts/
-│   └── analysis.py
+│   ├── analysis.py
 ├── visuals/
-│   └── plots.png
+│   ├── plots.png
 ├── README.md
-└── requirements.txt
+└── ...
 📝 Getting Started
 Clone the repository
 
@@ -117,15 +114,24 @@ Install dependencies:
 
 pip install numpy pandas matplotlib seaborn
 Place the dataset (bollywood.csv) in the project folder
-Run the notebook or Python script
+Run the analysis script or Jupyter Notebook
 Explore insights and visualizations
 🧠 Future Improvements
 Add machine learning models for prediction
-Build an interactive dashboard (Streamlit / Power BI)
+Build an interactive dashboard (Streamlit/Power BI)
 Integrate real-time movie data APIs
 Perform sentiment analysis on audience reviews
+📚 Resources
+https://pandas.pydata.org/docs/
+https://numpy.org/doc/
+https://matplotlib.org/stable/contents.html
+https://seaborn.pydata.org/
+📝 License
+
+MIT License
+
 👩‍💻 Author
 
 Made with ❤️ by Rakhi Yadav
 
-<p align="center"> <b>Turning data into blockbuster insights 🎥✨</b> </p>
+Turning data into blockbuster insights 🎥✨
