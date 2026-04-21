@@ -101,19 +101,24 @@ df.head()
 <img width="350" height="300" alt="image" src="https://github.com/user-attachments/assets/2c39c5bd-b804-453b-afed-085e7e15bbeb" />
 
 ### 🔥 Correlation Heatmap
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/45fe6694-0a41-45e8-8637-fef9929b881d" />
+<p align="center" />
+<img width="350" height="300" alt="image" src="https://github.com/user-attachments/assets/45fe6694-0a41-45e8-8637-fef9929b881d" />
 
 ### 📊 Year vs Box Office Collection
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/746ba173-cf98-4f34-81e5-f16cab9ab5d6" />
+<p align="center" />
+<img width="350" height="300" alt="image" src="https://github.com/user-attachments/assets/746ba173-cf98-4f34-81e5-f16cab9ab5d6" />
 
 ### 🎯 Movies per Year
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/e46c0b20-5613-41f8-b855-6b63a1f0dd22" />
+<p align="center" />
+<img width="350" height="300" alt="image" src="https://github.com/user-attachments/assets/e46c0b20-5613-41f8-b855-6b63a1f0dd22" />
 
 ### 📉 Budget Distribution
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/357b1fb8-ed8b-40c1-b3ea-ff371be8846b" />
+<p align="center" />
+<img width="350" height="300" alt="image" src="https://github.com/user-attachments/assets/357b1fb8-ed8b-40c1-b3ea-ff371be8846b" />
 
 ### 👍 Likes vs 👎 Dislikes Comparison
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/327abde0-1fbb-45a7-a5f6-f5683f15aae5" />
+<p align="center" />
+<img width="350" height="300" alt="image" src="https://github.com/user-attachments/assets/327abde0-1fbb-45a7-a5f6-f5683f15aae5" />
 
 ## 🔌 Example Use Cases
 - Predicting movie success based on budget & engagement
