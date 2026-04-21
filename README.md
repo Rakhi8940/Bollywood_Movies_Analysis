@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://github.com/user-attachments/assets/a450a461-d077-4ba7-9911-294ad933c427" width="900" alt="Bollywood Movie Analysis Banner" style="margin: 12px 0; border-radius: 18px; background: #fff; box-shadow: 0 4px 16px rgba(0,0,0,0.12); padding: 0;"> </p>
+<p align="center"> <img src="https://github.com/user-attachments/assets/bd34176f-85c1-437c-b447-ee3b6c2d070c" width="900" alt="Bollywood Movie Analysis Banner" style="margin: 12px 0; border-radius: 18px; background: #fff; box-shadow: 0 4px 16px rgba(0,0,0,0.12); padding: 0;"> </p>
 
 ### 🎬 Bollywood Movie Analysis
 
